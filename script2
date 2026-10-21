@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NihalIsDumb/ride-a-pet/refs/heads/main/script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NihalIsDumb/load-script/refs/heads/main/script"))()
